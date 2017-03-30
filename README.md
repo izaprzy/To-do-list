@@ -8,3 +8,4 @@ Simple ToDo list with the following features:
 -The "complete" button changes the color of task to red and <br>
 -"Remove finished tasks" removes the tasks which are marked as completed <br>
 
+Please, check here https://izaprzy.github.io/To-do-list/
